@@ -5,7 +5,6 @@ greeting_hash = {
   "name" => "Valentina"
 }
 end
-end
 
 
 def shipping_manifest
