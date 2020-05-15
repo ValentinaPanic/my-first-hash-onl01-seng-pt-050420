@@ -8,8 +8,8 @@ end
 
 
 def shipping_manifest
-hash = {"whale bone corsets" => 5, 
-  "oil paintings" => 2, 
+hash = {"whale bone corsets" => 5,
+  "oil paintings" => 2,
   "porcelain vases" => 3}
   the manifest = hash
   # set a variable called `the_manifest`, equal to a hash
